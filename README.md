@@ -22,4 +22,4 @@ Aquí podrás acceder al proyecto [Portafolio](https://stephanyvlz.github.io/)
 * Contacto
 
 ## Captura del proyecto
-![Captura del proyecto](/Portafolio/assets/Captura-del-proyecto.JPG)
+![Captura del proyecto](assets/Captura-del-proyecto.JPG)
