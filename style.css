@@ -105,3 +105,8 @@ footer p{
 footer p a{
     color: #1c1800;
 }
+
+#app{
+    color:rgb(68, 46, 83);
+    font-size: 30px;
+}
